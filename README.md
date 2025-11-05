@@ -1,2 +1,3 @@
 # health-app-scraper
-A tool to scrape and analyze mobile app stores and code repositories to identify and evaluate health- and disease-related apps.
+
+Apps play an increasingly important role in supporting the management of chronic diseases (this can be extended to other areas too). However, not all apps display the same quality and some can even convey misinformation. Therefore, it is important to quickly be able to evaluate existing apps for different conditions or diseases. The goal of this project is to develop program that can scrap information on apps from the main app stores / repositories like Github and Gitlab, leading to the identification of potentially relevant apps based on a set of keywords along with their characteristics (author, rating, etc).
