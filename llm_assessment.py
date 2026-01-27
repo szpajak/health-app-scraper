@@ -82,14 +82,17 @@ def build_prompt(app: AppRow) -> str:
 def run_llm(client, model_name: str, prompt: str, retries: int, backoff_s: float) -> str:
     for attempt in range(retries + 1):
         try:
+            config = {"max_output_tokens": 200}
+
+            if "gemini" in model_name:
+                config["response_mime_type"] = "application/json"
+
             resp = client.models.generate_content(
                 model=model_name,
                 contents=prompt,
-                config={
-                    "response_mime_type": "application/json",
-                    "max_output_tokens": 200,
-                },
+                config=config,
             )
+
             return resp.text or ""
         except genai_errors.ClientError as e:
             msg = str(e)
@@ -110,6 +113,9 @@ def assess_rows(df: pd.DataFrame, start: Optional[int], end: Optional[int], clie
         row = df.iloc[i - 1]
         app = AppRow.from_series(i, row)
         prompt = build_prompt(app)
+        print(f"[LLM] Processing row {i}/{end_idx}: {app.title[:40]}...")
+        sys.stdout.flush()
+
         decision_text = run_llm(client, model_name, prompt, retries, backoff_s)
         results.append({
             "index": i,
