@@ -1,0 +1,583 @@
+index,title,genre,updated,llm_decision
+1,Asthma Tracker゜,Lifestyle,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Title clearly indicates asthma tracking. Category is Lifestyle, but the title warrants inclusion.""
+}
+```"
+2,My Pollen Forecast - Allergies,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and the title explicitly mentions pollen forecast and allergies, indicating relevance for rhinitis/hay fever support.""
+}
+```"
+3,Asthma: Tracker & Reminders,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the title explicitly mentions 'Asthma' and 'Tracker & Reminders', indicating symptom tracking. Update date is missing, but the title suggests active use.""
+}
+```"
+4,AsthmaGo,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and title suggests asthma support. Update date missing, but likely active.""
+}
+```"
+5,Pediatric Asthma Risk Score,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the title directly references 'Asthma Risk Score', indicating relevance for asthma symptom monitoring.""
+}
+```"
+6,Allergy Plus by Pollen.com,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and title mentions 'Allergy'. No update date, but likely active given the app's purpose. Relevant for symptom tracking.""
+}
+```"
+7,Daily Breathe: Asthma Tracker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the title explicitly mentions 'Asthma Tracker', indicating relevance for symptom tracking.""
+}
+```"
+8,AsthmaTime,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and title suggests asthma focus. Update date missing, but likely active given the app's purpose.""
+}
+```"
+9,ASTHMA,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and title is 'ASTHMA'. No update date, but likely active as a dedicated asthma app.""
+}
+```"
+10,PeakFlow Diary (Asthma),Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and title explicitly mentions 'Asthma'. No update date, but the app's purpose suggests it's relevant for symptom tracking.""
+}
+```"
+11,Asthma Tracker゜,Lifestyle,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Title clearly indicates asthma tracking. Category is Lifestyle, but the title warrants inclusion.""
+}
+```"
+12,My Pollen Forecast - Allergies,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and the title explicitly mentions pollen forecast and allergies, indicating relevance for rhinitis/hay fever support.""
+}
+```"
+13,Inhaler tracker: Inhalator,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Genre is Medical and title mentions 'Inhaler tracker', indicating relevance for asthma symptom tracking.""
+}
+```"
+14,Asthma Tracker - Astira,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and the title explicitly mentions 'Asthma Tracker'. No update date, but the name suggests active use for symptom tracking.""
+}
+```"
+15,Bearable - Symptom Tracker,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and the title explicitly mentions 'Symptom Tracker'. No update date, but likely active due to symptom tracking functionality.""
+}
+```"
+16,Daily Breathe: Asthma Tracker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the title explicitly mentions 'Asthma Tracker', indicating relevance for symptom tracking.""
+}
+```"
+17,BreatheSmart,Medical,,"```json
+{
+  ""include"": false,
+  ""reason"": ""No description provided to assess relevance. Missing update information and no category to suggest relevance.""
+}
+```"
+18,Asthma Tracker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and title indicates asthma tracking. Update date missing, but likely active as a symptom tracker.""
+}
+```"
+19,PeakFlow Diary (Asthma),Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and title explicitly mentions 'Asthma'. No update date, but the app's purpose suggests it's relevant for symptom tracking.""
+}
+```"
+20,juli chronic condition tracker,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and the title explicitly mentions 'chronic condition tracker'. No update date, but likely active due to the nature of the app.""
+}
+```"
+21,Inhaler tracker: Inhalator,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Genre is Medical and title mentions 'Inhaler tracker', indicating relevance for asthma symptom tracking.""
+}
+```"
+22,Asthma Tracker゜,Lifestyle,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Title clearly indicates asthma tracking. Category is Lifestyle, but the title warrants inclusion.""
+}
+```"
+23,Inhaler Tracker,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and title indicates asthma tracking. Update date missing, but title suggests active use.""
+}
+```"
+24,Bearable - Symptom Tracker,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and the title explicitly mentions 'Symptom Tracker'. No update date, but likely active due to symptom tracking functionality.""
+}
+```"
+25,Complete - Medication Tracker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and title indicates medication tracking, which can be relevant for managing asthma/rhinitis/hay fever.""
+}
+```"
+26,Inhaler Counter,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and the title 'Inhaler Counter' strongly suggests asthma symptom tracking (inhaler use).""
+}
+```"
+27,Tally: The Anything Tracker,Productivity,,"```json
+{
+  ""include"": false,
+  ""reason"": ""Genre is Productivity. While the title mentions 'tracker', the description is missing, so it's unclear if it tracks asthma/allergy symptoms. No update information available.""
+}
+```"
+28,Asthma Tracker - Astira,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and the title explicitly mentions 'Asthma Tracker'. No update date, but the name suggests active use for symptom tracking.""
+}
+```"
+29,Daily Breathe: Asthma Tracker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the title explicitly mentions 'Asthma Tracker', indicating relevance for symptom tracking.""
+}
+```"
+30,AsthmaTuner,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Genre is Medical. No update date, but likely active as a medical tracking app. App title suggests relevance to asthma.""
+}
+```"
+31,PeakFlow Diary (Asthma),Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and title explicitly mentions 'Asthma'. No update date, but the title suggests active use for symptom tracking.""
+}
+```"
+32,Daily Breathe: Asthma Tracker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the title explicitly mentions 'Asthma Tracker', indicating relevance for symptom tracking.""
+}
+```"
+33,Asthma Tracker゜,Lifestyle,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Title clearly indicates asthma tracking. Category is Lifestyle, but the title warrants inclusion.""
+}
+```"
+34,Nordic Flow: Breathwork,Health & Fitness,,"```json
+{
+  ""include"": false,
+  ""reason"": ""Health & Fitness category is acceptable, but the description is missing. No clear indication of asthma/rhinitis/hay fever tracking or symptom management.""
+}
+```"
+35,My Pollen Forecast - Allergies,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and the title explicitly mentions pollen forecast and allergies, indicating relevance for rhinitis/hay fever support.""
+}
+```"
+36,Easy Peak Flow Diary,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Genre is Medical and title indicates peak flow tracking, a key asthma monitoring tool. Update date missing, but the app's function suggests it's relevant.""
+}
+```"
+37,Inhaler Tracker,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and the title 'Inhaler Tracker' strongly suggests relevance for asthma symptom management. Update date missing, but title implies active use.""
+}
+```"
+38,Safey Peak Flow,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Genre is Medical and title indicates peak flow monitoring, a key aspect of asthma management. Update date missing, but title suggests active use.""
+}
+```"
+39,Smart Asthma: Forecast Asthma,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the title explicitly mentions 'Asthma' and 'Forecast'. No update date, but the title suggests active functionality.""
+}
+```"
+40,Your Peak Flow,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Genre is Medical and title 'Your Peak Flow' strongly suggests asthma symptom tracking (peak flow measurement).""
+}
+```"
+41,Asthma Manager,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and title indicates asthma management. Update date missing, but likely active as a symptom tracker.""
+}
+```"
+42,Daily Breathe: Asthma Tracker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the title explicitly mentions 'Asthma Tracker', indicating relevance for symptom tracking.""
+}
+```"
+43,AsthmaTime,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and title suggests asthma tracking. Update date missing, but likely active.""
+}
+```"
+44,Asthma COPD 2019,Medical,,"```json
+{
+  ""include"": false,
+  ""reason"": ""No update date and description is empty. Cannot determine relevance or activity.""
+}
+```"
+45,Airofit,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Health & Fitness category. No update date, but likely active. Needs description review for symptom tracking relevance.""
+}
+```"
+46,Breathe for Asthma and COPD,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and title explicitly mentions Asthma and COPD, indicating relevance for symptom support. Update date missing, but the app's focus suggests it's likely active.""
+}
+```"
+47,Smart Asthma: Forecast Asthma,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the title explicitly mentions 'Asthma' and 'Forecast'. No update date, but the title suggests active functionality.""
+}
+```"
+48,AsthmaTuner,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Genre is Medical. No update date, but likely active as a medical app. App title suggests relevance to asthma.""
+}
+```"
+49,AsthmaGo,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and title suggests asthma support. Update date missing, but likely active.""
+}
+```"
+50,Daily Breathe: Asthma Tracker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the title explicitly mentions 'Asthma Tracker', indicating relevance for symptom tracking.""
+}
+```"
+51,Asthma Manager,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and title indicates asthma management. Update date missing, but likely active as a symptom tracker.""
+}
+```"
+52,Asthma Tracker゜,Lifestyle,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Title clearly indicates asthma tracking. Category is Lifestyle, but the title warrants inclusion.""
+}
+```"
+53,My Pollen Forecast - Allergies,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and the title explicitly mentions pollen forecast and allergies, indicating relevance for rhinitis/hay fever support.""
+}
+```"
+54,Asthma Tracker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and title indicates asthma tracking. Update date missing, but likely active as a symptom tracker.""
+}
+```"
+55,My Pollen Forecast Pro,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and the title 'My Pollen Forecast Pro' strongly suggests relevance for hay fever/rhinitis symptom forecasting.""
+}
+```"
+56,ASTHMA,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and title is 'ASTHMA'. No update date, but likely active given the title. App likely for symptom tracking.""
+}
+```"
+57,myAir™ by Resmed,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Medical category and title 'myAir' by Resmed suggests respiratory health focus. Likely related to monitoring/tracking, even without update date.""
+}
+```"
+58,Airofit,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Health & Fitness category. No update date, but the name 'Airofit' suggests respiratory function/monitoring, potentially relevant for asthma/rhinitis.""
+}
+```"
+59,My Pollen Forecast - Allergies,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and the title explicitly mentions pollen forecast and allergies, indicating relevance for rhinitis/hay fever support.""
+}
+```"
+60,Allergy Plus by Pollen.com,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness. Title mentions 'Allergy', suggesting relevance to rhinitis/hay fever. Update date missing, but Pollen.com is a known allergy resource, implying active development.""
+}
+```"
+61,My Pollen Forecast Pro,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and the title 'My Pollen Forecast Pro' strongly suggests relevance for pollen/allergy tracking.""
+}
+```"
+62,Pollen Wise,Weather,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Genre is Weather, which is relevant for pollen tracking and forecasting, a key aspect of asthma/rhinitis/hay fever management.""
+}
+```"
+63,Spokin - Manage Food Allergies,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Health & Fitness category. Description focuses on managing food allergies, which can be a trigger for asthma/rhinitis. No update date, but the app's function suggests it's likely active.""
+}
+```"
+64,ZYRTEC® ALLERGYCAST®,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Health & Fitness category. Title mentions 'ALLERGYCAST' suggesting symptom forecasting related to allergies (rhinitis/hay fever).""
+}
+```"
+65,Asthma Tracker゜,Lifestyle,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Title clearly indicates asthma tracking. Category is Lifestyle, but the title warrants inclusion.""
+}
+```"
+66,IQAir AirVisual | Air Quality,Weather,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Genre is Weather, and air quality is relevant for asthma/rhinitis/hay fever sufferers. No update date, but air quality apps are generally active.""
+}
+```"
+67,Air Quality & Pollen - AirCare,Weather,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Weather and the title explicitly mentions 'Air Quality & Pollen', suggesting relevance for hay fever/rhinitis support. No update date, but title implies active.""
+}
+```"
+68,My Pollen Forecast Pro,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and the title 'My Pollen Forecast Pro' strongly suggests relevance for hay fever/rhinitis symptom forecasting.""
+}
+```"
+69,My Pollen Forecast - Allergies,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and the title explicitly mentions pollen forecast and allergies, indicating relevance for rhinitis/hay fever support.""
+}
+```"
+70,WebMD: Symptom Checker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the title 'Symptom Checker' suggests symptom tracking, relevant for asthma/rhinitis/hay fever support. Update date missing, but likely active.""
+}
+```"
+71,Ada – check your health,Medical,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While in the Medical category, the description is missing, and there's no update information. Cannot determine relevance to asthma/rhinitis/hay fever support.""
+}
+```"
+72,Airofit,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Health & Fitness category. No update date, but the name 'Airofit' suggests respiratory function/monitoring, potentially relevant for asthma/rhinitis.""
+}
+```"
+73,Asthma Tracker゜,Lifestyle,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Title clearly indicates asthma tracking. Category is Lifestyle, but the title warrants inclusion.""
+}
+```"
+74,Allergy Plus by Pollen.com,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness. Title mentions 'Allergy', suggesting relevance to rhinitis/hay fever. Update date missing, but Pollen.com is a known allergy resource, implying activity.""
+}
+```"
+75,Pollen Wise,Weather,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Genre is Weather, which is relevant for pollen tracking and forecasting, a key aspect of asthma/rhinitis/hay fever management.""
+}
+```"
+76,Air Quality & Pollen - AirCare,Weather,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Genre is Weather and title mentions 'Air Quality & Pollen', suggesting relevance for hay fever/rhinitis symptom tracking. Update date missing, but title implies active app.""
+}
+```"
+77,Asthma: Tracker & Reminders,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and title explicitly mentions 'Asthma' and 'Tracker & Reminders', indicating symptom tracking. Update date missing, but title suggests active use.""
+}
+```"
+78,Meds & Pill Reminder MyTherapy,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and title mentions 'Meds & Pill Reminder', suggesting potential relevance for managing medications related to asthma/rhinitis/hay fever. Lack of update date is noted, but the app's function implies ongoing use.""
+}
+```"
+79,iHeart-Pulse Rate Monitor App.,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and the title explicitly mentions 'Pulse Rate Monitor'. While not directly asthma-related, pulse rate monitoring can be relevant for asthma management. No update date, but likely active.""
+}
+```"
+80,Eko: Digital Stethoscope + ECG,Medical,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While in the Medical category, the app focuses on stethoscope and ECG functionality, not asthma/rhinitis/hay fever symptom tracking, monitoring, or forecasting.""
+}
+```"
+81,My Pollen Forecast - Allergies,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and the title explicitly mentions pollen forecast and allergies, indicating relevance for rhinitis/hay fever support.""
+}
+```"
+82,My Pollen Forecast Pro,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and title indicates pollen forecast, suggesting relevance for hay fever/rhinitis support. Update date missing, but title suggests active app.""
+}
+```"
+83,AprilAire Healthy Air,Lifestyle,,"```json
+{
+  ""include"": false,
+  ""reason"": ""Genre is Lifestyle and description is missing. No indication of asthma/allergy tracking or modern iPhone features to suggest activity.""
+}
+```"
+84,Airofit,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Health & Fitness category. No update date, but likely active. Needs description review for symptom tracking relevance.""
+}
+```"
+85,Smart Asthma: Forecast Asthma,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Genre is Medical and the title explicitly mentions 'Asthma' and 'Forecast'. No update date, but the title suggests active development for symptom forecasting.""
+}
+```"
+86,Health - Heart Rate Monitor,Health & Fitness,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While in Health & Fitness category, the title focuses solely on heart rate monitoring and lacks any mention of asthma, rhinitis, or hay fever tracking/management.""
+}
+```"
+87,Airthings,Utilities,,"```json
+{
+  ""include"": false,
+  ""reason"": ""Genre is Utilities, and description is missing. No clear indication of asthma/allergy tracking or symptom management.""
+}
+```"
+88,Asthma Manager,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and title indicates asthma management. Update date missing, but likely active as a symptom tracker.""
+}
+```"
+89,AYRA,Medical,,"```json
+{
+  ""include"": false,
+  ""reason"": ""Genre is Medical, but description is missing. No update date provided, and no clues in description to suggest active development or relevance to asthma/rhinitis/hay fever.""
+}
+```"
+90,AsthmaTime,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and title suggests asthma tracking. Update date missing, but likely active.""
+}
+```"
+91,AsthmaMD,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Genre is Medical and title indicates asthma focus. Update date missing, but likely active given the medical nature.""
+}
+```"
+92,CHF Family Asthma App,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and title explicitly mentions 'Asthma'. No update date, but likely active given the app's purpose.""
+}
+```"
+93,Asthma Tracker゜,Lifestyle,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Title clearly indicates asthma tracking. Category is Lifestyle, but the title warrants inclusion.""
+}
+```"
+94,Our Journey with Asthma,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Genre is Medical and title clearly indicates asthma focus. Update date missing, but title suggests active app.""
+}
+```"
+95,Asthma: Tracker & Reminders,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the title explicitly mentions 'Asthma' and 'Tracker & Reminders', indicating symptom tracking. Update date is missing, but the title suggests an active app.""
+}
+```"
+96,ASTHMAXcel,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Health & Fitness category. Title 'ASTHMAXcel' strongly suggests asthma management/tracking. Update date missing, but title implies active app.""
+}
+```"
+97,ASTHMAXcel Adventures,Games,,"```json
+{
+  ""include"": false,
+  ""reason"": ""Genre is Games. No indication of asthma/allergy tracking or symptom management in the title or description.""
+}
+```"

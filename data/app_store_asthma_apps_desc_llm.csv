@@ -1,0 +1,1117 @@
+index,title,genre,updated,llm_decision
+1,Asthma: Tracker & Reminders,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description clearly outlines symptom tracking, medication reminders, and health reports specifically for asthma management. App appears active.""
+}
+```"
+2,FindAir – Asthma Diary,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness, and the description clearly indicates asthma symptom tracking, medication management, and environmental hazard warnings. App appears active due to feature descriptions.""
+}
+```"
+3,"Airyn, the asthma app",Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical. Description highlights clinically-proven breathing exercises for asthma symptom management, progress tracking, and personalized support. Mentions NHS clinical study and advanced analytics.""
+}
+```"
+4,Asthma Tracker゜,Lifestyle,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Lifestyle, but the title and description clearly indicate asthma symptom tracking (inhaler usage, symptoms, measurements, reports). Mentions modern iPhone features (Face ID/Touch ID) suggesting it's active.""
+}
+```"
+5,My Pollen Forecast - Allergies,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness, description explicitly mentions pollen tracking, symptom diary, and forecasts. App appears active due to mention of modern iPhone support.""
+}
+```"
+6,AsthmaTuner,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical. Description clearly indicates asthma symptom tracking, lung function measurement (FEV1), pollen/weather tracking, and sharing data with healthcare providers. App appears active.""
+}
+```"
+7,AsthmaGo,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Health & Fitness category, actively tracks lung function, symptoms, medications, and generates reports. Compatible devices are FDA-cleared. App appears relevant for asthma management.""
+}
+```"
+8,Daily Breathe: Asthma Tracker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description clearly indicates asthma tracking with features like peak flow monitoring, zone alerts, and health integration. No alternative medicine mentioned.""
+}
+```"
+9,AsthmaTime,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and the description explicitly states it's for asthma self-management. No update date, but the description suggests active use.""
+}
+```"
+10,IQAir AirVisual | Air Quality,Weather,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Weather, but the description explicitly mentions support for sensitive people (allergies, asthma), health recommendations, pollen counts, and educational resources related to respiratory illnesses. App appears active.""
+}
+```"
+11,ASTHMA,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Relevant Health & Fitness app specifically designed for asthma management, including reminders, emergency assistance, and symptom guidance. No indication of alternative medicine.""
+}
+```"
+12,Allergy Plus by Pollen.com,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness. Description clearly states it provides real-time allergy information, forecasts, and notifications - directly relevant for asthma/rhinitis/hay fever support.""
+}
+```"
+13,ZYRTEC® ALLERGYCAST®,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness. Description explicitly mentions allergy tracking, pollen forecasts, symptom severity predictions, and personalized insights - all relevant for asthma/rhinitis/hay fever support.""
+}
+```"
+14,Blood Oxygen App,Medical,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While in the Medical category and tracking vital signs, this app focuses on blood oxygen and heart rate, not specifically asthma, rhinitis, or hay fever. It's a general wellness tracker.""
+}
+```"
+15,Asthma Tracker - Astira,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness. Description clearly indicates asthma symptom tracking, medication reminders, peak flow monitoring, and trigger identification. App appears active with Apple Health integration and modern features.""
+}
+```"
+16,PeakFlow Diary (Asthma),Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the description explicitly states it's for tracking peak flow values and managing breathing, indicating asthma support. No alternative medicine mentioned.""
+}
+```"
+17,Pediatric Asthma Risk Score,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Medical app focused on predicting asthma risk in children using a research-backed scoring system (PARS). Aligns with symptom forecasting and is from a reputable medical center.""
+}
+```"
+18,Smart Asthma: Forecast Asthma,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the app focuses on asthma symptom tracking, forecasting, and data sharing with healthcare providers. Mentions HealthKit integration, suggesting it's actively maintained.""
+}
+```"
+19,ASTHMAXcel PRO,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness. Description clearly indicates asthma education, symptom tracking, medication reminders, and aims to improve asthma control - all relevant for asthma support.""
+}
+```"
+20,ASTHMAXcel,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness, and the description clearly states it's for asthma patients, teaching them about asthma management and improving control. App appears active.""
+}
+```"
+21,Asthma Tracker゜,Lifestyle,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Lifestyle, but the description clearly indicates asthma symptom tracking (inhaler usage, symptoms, measurements, reports). Mentions modern iPhone features (Face ID/Touch ID), suggesting it's active.""
+}
+```"
+22,Asthma Tracker - Astira,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness. Description clearly indicates asthma symptom tracking, medication reminders, peak flow monitoring, and trigger identification. App appears active with Apple Health integration and modern features.""
+}
+```"
+23,My Pollen Forecast - Allergies,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness, explicitly mentions pollen tracking, symptom diary, and forecasts. Supports iPhone/iPad, suggesting active development despite missing update date. Relevant for asthma/rhinitis/hay fever.""
+}
+```"
+24,juli chronic condition tracker,Health & Fitness,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While the app tracks health data and mentions weather, it primarily focuses on COPD, depression, and bipolar disorder. It doesn't specifically address asthma, rhinitis, or hay fever.""
+}
+```"
+25,Inhaler tracker: Inhalator,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the description explicitly states it's an asthma inhaler counter, tracking doses and reminding to order refills. No alternative medicine mentioned.""
+}
+```"
+26,Daily Breathe: Asthma Tracker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description clearly indicates asthma tracking with features like peak flow monitoring, zone assessment, and health integration. No alternative medicine mentioned.""
+}
+```"
+27,Bearable - Symptom Tracker,Health & Fitness,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While the app is a symptom tracker for various conditions, it doesn't specifically focus on asthma, rhinitis, or hay fever. It's a general health tracker.""
+}
+```"
+28,Asthma Tracker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the description clearly indicates asthma symptom tracking, including peak flow, medication, and symptoms. Mentions Health app integration and modern features, suggesting it's active.""
+}
+```"
+29,Asthma & Medication Tracker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description clearly indicates asthma tracking with features like peak flow monitoring, inhaler usage tracking, and medication reminders. No alternative medicine mentioned.""
+}
+```"
+30,BreatheSmart,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description explicitly mentions asthma and COPD symptom tracking, trigger monitoring, and medication management. App appears active due to feature descriptions.""
+}
+```"
+31,AsthmaGo,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Health & Fitness category, explicitly mentions asthma management, lung function testing, record management, and sharing reports with physicians. Compatible devices are FDA-cleared.""
+}
+```"
+32,PeakFlow Diary (Asthma),Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description explicitly states it's for tracking peak flow values and managing breathing, indicating relevance for asthma symptom monitoring.""
+}
+```"
+33,ZYRTEC® ALLERGYCAST®,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness. Description explicitly mentions allergy tracking, pollen forecasts, symptom severity predictions, and personalized insights - all relevant for asthma/rhinitis/hay fever support.""
+}
+```"
+34,Smart Asthma: Forecast Asthma,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the app focuses on asthma symptom tracking, forecasting, and data sharing with healthcare providers. Mentions HealthKit integration, suggesting it's actively maintained.""
+}
+```"
+35,"Tracker, Reminder - CareClinic",Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""The app includes symptom tracking, medication reminders, and a comprehensive health diary, covering conditions like allergies and GI symptoms, relevant to asthma/rhinitis/hay fever management. It also integrates with health platforms.""
+}
+```"
+36,Blood Oxygen App,Medical,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While in the Medical category and tracking vital signs, this app focuses on blood oxygen and heart rate, not specifically asthma, rhinitis, or hay fever. It's a general wellness tracker.""
+}
+```"
+37,Children's Health Asthma Buddy,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness, description clearly indicates asthma symptom tracking, medication reminders, and action plan sharing. App mentions account creation suggesting it's actively maintained.""
+}
+```"
+38,Health Widget: My FitWidget,Health & Fitness,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While a Health & Fitness app, it doesn't specifically track, monitor, or forecast asthma/rhinitis/hay fever symptoms. It's a general fitness tracker.""
+}
+```"
+39,ASTHMA,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Relevant Health & Fitness app specifically designed for asthma management, including reminders, emergency assistance, and symptom guidance. No indication of alternative medicine.""
+}
+```"
+40,Track My Asthma,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the app explicitly focuses on tracking asthma symptoms (medication, peak flow, reminders, charts) and exporting data. No alternative medicine mentioned. App appears active.""
+}
+```"
+41,Inhaler tracker: Inhalator,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the description clearly indicates asthma inhaler tracking and dose monitoring. No evidence of alternative medicine.""
+}
+```"
+42,Asthma Tracker゜,Lifestyle,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Lifestyle, but the title and description clearly indicate asthma symptom tracking (inhaler usage, symptoms, measurements, reports). Mentions modern iPhone features (Face ID/Touch ID) suggesting it's active.""
+}
+```"
+43,Inhaler Tracker,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Health & Fitness category, tracks inhaler usage and integrates with HealthKit. Mentions modern iPhone features (Today Extension), suggesting it's actively maintained. Relevant for asthma symptom tracking.""
+}
+```"
+44,Tally: The Anything Tracker,Productivity,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While the app allows tracking of various health metrics (mood, pain, symptoms), it's a general tracker and doesn't specifically focus on asthma, rhinitis, or hay fever. It falls under the Productivity category.""
+}
+```"
+45,Bearable - Symptom Tracker,Health & Fitness,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While the app is a symptom tracker for various conditions, it doesn't specifically focus on asthma, rhinitis, or hay fever. It's a general health tracker.""
+}
+```"
+46,Complete - Medication Tracker,Medical,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While medical, this app specifically supports HUMIRA, RINVOQ, and SKYRIZI for autoimmune conditions, not asthma/rhinitis/hay fever. It doesn't track those specific symptoms.""
+}
+```"
+47,Inhaler Counter,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Health & Fitness category, tracks inhaler usage, peak flow, integrates with Health App, and mentions modern iPhone features suggesting active development. Relevant for asthma symptom tracking.""
+}
+```"
+48,Daily Breathe: Asthma Tracker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description clearly indicates asthma tracking with features like peak flow monitoring, zone assessment, and health integration. No alternative medicine mentioned.""
+}
+```"
+49,HealthHQ Kids Health Tracker,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""While not exclusively for asthma, the app tracks symptoms and environmental factors (food, activity) relevant to asthma triggers. It also lists asthma as a condition it supports, making it relevant for symptom management.""
+}
+```"
+50,Smart Asthma: Forecast Asthma,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical. App focuses on asthma symptom tracking, forecasting, and data sharing with healthcare providers. Mentions HealthKit integration, suggesting active development.""
+}
+```"
+51,Smart Rescue Inhaler Assistant,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the description clearly focuses on inhaler tracking, reminders, and identifying triggers - directly relevant to asthma management.""
+}
+```"
+52,Shotsy - GLP-1 Tracker,Health & Fitness,,"```json
+{
+  ""include"": false,
+  ""reason"": ""This app focuses on GLP-1 medication tracking for weight management, not asthma/rhinitis/hay fever symptom tracking. It falls outside the specified relevance criteria.""
+}
+```"
+53,juli chronic condition tracker,Health & Fitness,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While the app tracks health data and mentions weather, it primarily focuses on COPD, depression, and bipolar disorder. It doesn't specifically address asthma, rhinitis, or hay fever.""
+}
+```"
+54,AsthmaTuner,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical. Description clearly indicates asthma symptom tracking, lung function measurement (FEV1), pollen/weather tracking, and sharing data with healthcare providers. App appears active.""
+}
+```"
+55,Asthma Tracker - Astira,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness. Description clearly indicates asthma symptom tracking, medication reminders, peak flow monitoring, and trigger identification. App appears active due to feature descriptions.""
+}
+```"
+56,Meds & Pill Reminder MyTherapy,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""The app explicitly mentions support for asthma and provides features like symptom tracking and medication reminders, making it relevant for asthma management.""
+}
+```"
+57,Livity: Sleep & Health Tracker,Health & Fitness,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While a Health & Fitness app, Livity focuses on general health, recovery, and training. It doesn't specifically mention asthma, rhinitis, or hay fever tracking/management.""
+}
+```"
+58,Asthma Manager,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description explicitly mentions asthma symptom tracking, medication management, and connecting with care providers. App mentions integration with Health app, suggesting it's active.""
+}
+```"
+59,FindAir – Asthma Diary,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness, and the description clearly indicates asthma symptom tracking, medication management, and environmental hazard warnings. App appears active due to feature descriptions.""
+}
+```"
+60,PeakFlow Diary (Asthma),Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description explicitly states it's for tracking peak flow values and managing breathing, indicating relevance for asthma symptom monitoring.""
+}
+```"
+61,Daily Breathe: Asthma Tracker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description clearly indicates asthma tracking with features like peak flow monitoring, zone assessment, and health integration. No alternative medicine mentioned.""
+}
+```"
+62,Easy Peak Flow Diary,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the app is specifically designed for peak flow tracking, a key asthma management tool. Description indicates active development (data visualization, export).""
+}
+```"
+63,Asthma Tracker゜,Lifestyle,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Lifestyle, but the title and description clearly indicate asthma symptom tracking (inhaler usage, symptoms, measurements, reports). Mentions modern iPhone features (Face ID/Touch ID), suggesting it's active.""
+}
+```"
+64,My Pollen Forecast - Allergies,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness, explicitly mentions pollen tracking, symptom diary, and forecasts. Supports iPhone/iPad, suggesting active development despite missing update date. Relevant for asthma/rhinitis/hay fever.""
+}
+```"
+65,Safey Peak Flow,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the description explicitly mentions lung tests and connection to an FDA-approved device for respiratory diagnosis, indicating relevance for asthma support.""
+}
+```"
+66,Inhaler Tracker,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Health & Fitness category, tracks inhaler usage and integrates with HealthKit. Mentions modern iPhone features (Today Extension), suggesting it's actively maintained. Relevant for asthma symptom tracking.""
+}
+```"
+67,Nordic Flow: Breathwork,Health & Fitness,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While in the Health & Fitness category and addressing stress/anxiety, the app focuses on general mindfulness and breathwork, not specifically asthma/rhinitis/hay fever tracking or management.""
+}
+```"
+68,PeakflowLogger,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness, description explicitly mentions asthma and respiratory health tracking, multiple user profiles, and data sharing with healthcare providers. No red flags for alternative medicine.""
+}
+```"
+69,Antara Peak Flow,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the description explicitly mentions lung tests and connection to an FDA-approved device for respiratory diagnosis, indicating relevance for asthma support.""
+}
+```"
+70,Impulse - Brain Training,Health & Fitness,,"```json
+{
+  ""include"": false,
+  ""reason"": ""Category is Health & Fitness, but the app focuses on brain training and cognitive skills, not asthma/rhinitis/hay fever symptom management.""
+}
+```"
+71,Your Peak Flow,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the description explicitly mentions asthma diary, peak flow tracking, and data export for doctor sharing. No alternative medicine mentioned.""
+}
+```"
+72,Smart Asthma: Forecast Asthma,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical. App focuses on asthma symptom tracking, forecasting, and data sharing with healthcare providers. Mentions HealthKit integration, suggesting active development.""
+}
+```"
+73,NxGen Peak Flow,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the description explicitly mentions lung tests and connection to a medical device (peak flow meter) for respiratory diagnosis, indicating relevance for asthma support.""
+}
+```"
+74,peakly,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Health & Fitness category, explicitly tracks asthma/COPD/allergy symptoms (peak flow, inhaler use, etc.), and description suggests active development (privacy focus).""
+}
+```"
+75,PeakFlow CRM,Productivity,,"```json
+{
+  ""include"": false,
+  ""reason"": ""Category is Productivity, and the description focuses on CRM functionality for e-commerce, not asthma/rhinitis/hay fever symptom tracking or management.""
+}
+```"
+76,Pipe Flow Wizard - Calculator,Utilities,,"```json
+{
+  ""include"": false,
+  ""reason"": ""This app is a fluid flow calculator for engineers, unrelated to asthma, rhinitis, or hay fever. It falls outside the specified relevance criteria.""
+}
+```"
+77,ピークフロー,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Health & Fitness category, specifically designed for peak flow monitoring and correlating it with weather data. Includes features like symptom tracking, warnings, and data export, directly supporting asthma management.""
+}
+```"
+78,Orcas Flowmeter,Business,,"```json
+{
+  ""include"": false,
+  ""reason"": ""Genre is Business and the app is a flowmeter for measuring fluid flow. It is not relevant to asthma/rhinitis/hay fever support.""
+}
+```"
+79,Flow Test Calculator,Productivity,,"```json
+{
+  ""include"": false,
+  ""reason"": ""This is a calculator for flow rates related to water systems, not asthma/rhinitis/hay fever. It falls under the Productivity category and lacks any relevance to respiratory health.""
+}
+```"
+80,Asthma Manager,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description explicitly mentions asthma symptom tracking, medication management, and connecting with care providers. App mentions integration with Health app, suggesting it's active.""
+}
+```"
+81,Daily Breathe: Asthma Tracker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description clearly indicates asthma tracking with features like peak flow monitoring, zone assessment, and health integration. No alternative medicine mentioned.""
+}
+```"
+82,AsthmaTime,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and the description explicitly states it's for asthma self-management. No update date, but the description suggests active use.""
+}
+```"
+83,Breathe for Asthma and COPD,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description explicitly mentions asthma/COPD action plans, symptom tracking (ChatBot), and medication management - all relevant for asthma support.""
+}
+```"
+84,Asthma COPD 2019,Medical,,"```json
+{
+  ""include"": false,
+  ""reason"": ""This app is for a conference, not for tracking, monitoring, or forecasting asthma/rhinitis/hay fever symptoms. It's primarily an informational tool.""
+}
+```"
+85,Airofit,Health & Fitness,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While in the Health & Fitness category and mentioning respiratory training, the app focuses on athletic performance and respiratory muscle strength, not asthma/rhinitis/hay fever symptom tracking or management.""
+}
+```"
+86,Smart Asthma: Forecast Asthma,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Medical category, clear focus on asthma symptom tracking, forecasting, and data sharing with healthcare providers. Mentions HealthKit integration, suggesting active development.""
+}
+```"
+87,AsthmaTuner,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical. Description clearly indicates asthma symptom tracking, lung function measurement (FEV1), pollen/weather tracking, and sharing data with healthcare providers. App appears active.""
+}
+```"
+88,QIoT Connected Asthma,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Health & Fitness category, tracks inhaler usage, peak flow, steroid doses, and provides pollen forecasts - directly relevant for asthma management.""
+}
+```"
+89,AYRA,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""App is specifically designed for asthma management, including action plan generation, peak flow tracking, medication reminders, and inhaler technique videos. Targets both healthcare providers and patients, indicating strong relevance.""
+}
+```"
+90,AsthmaGo,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Health & Fitness category, clear description of asthma symptom tracking (lung function, medication logs, reports), and mentions FDA-cleared devices. App appears active.""
+}
+```"
+91,Our Journey with Asthma,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the app is specifically designed to help families manage asthma, facilitating conversations and ensuring understanding of care instructions.""
+}
+```"
+92,Asthma Tracker゜,Lifestyle,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Lifestyle, but the title and description clearly indicate asthma symptom tracking (inhaler usage, symptoms, measurements, reports). Mentions modern iPhone features (Face ID/Touch ID) suggesting it's active.""
+}
+```"
+93,My Pollen Forecast - Allergies,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness, explicitly mentions pollen tracking, symptom diary, and forecasts. Supports iPhone/iPad, suggesting active development despite missing update date. Relevant for asthma/rhinitis/hay fever.""
+}
+```"
+94,myAir™ by Resmed,Medical,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While the app is medical and tracks sleep therapy data, it is not directly related to asthma, rhinitis, or hay fever. It focuses on sleep apnea therapy.""
+}
+```"
+95,ASTHMA,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Relevant Health & Fitness app specifically designed for asthma management, including reminders, emergency assistance, and symptom guidance. No indication of alternative medicine.""
+}
+```"
+96,Carby Health,Medical,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While the app is medical and offers chronic condition programs, it doesn't specifically focus on asthma tracking, monitoring, or forecasting. It mentions diabetes, hypertension, and asthma programs but lacks detail.""
+}
+```"
+97,Asthma Manager,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description explicitly mentions asthma symptom tracking, medication management, and connecting with care providers. App mentions integration with Health app, suggesting it's active.""
+}
+```"
+98,Daily Breathe: Asthma Tracker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description clearly indicates asthma tracking with features like peak flow monitoring, zone assessment, and health integration. No alternative medicine mentioned.""
+}
+```"
+99,My Pollen Forecast Pro,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness, explicitly mentions pollen tracking, symptom diary, and forecasts. Supports modern iPhone features, suggesting it's actively maintained. No alternative medicine claims.""
+}
+```"
+100,Asthma Tracker゜,Lifestyle,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Lifestyle, but the title and description explicitly mention asthma tracking, inhaler usage, symptom logging, and report generation. App appears active due to feature descriptions.""
+}
+```"
+101,My Pollen Forecast - Allergies,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness, explicitly mentions pollen tracking, symptom diary, and forecasts. Supports iPhone/iPad, suggesting active development despite missing update date. Relevant for asthma/rhinitis/hay fever.""
+}
+```"
+102,Asthma Tracker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the description clearly indicates asthma symptom tracking, including peak flow, medication, and symptoms. Mentions Health app integration and modern features, suggesting it's active.""
+}
+```"
+103,myAir™ by Resmed,Medical,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While the app is medical and tracks sleep therapy data, it's not directly related to asthma, rhinitis, or hay fever. It focuses on sleep apnea therapy.""
+}
+```"
+104,ASTHMA,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Relevant Health & Fitness app specifically designed for asthma management, including reminders, emergency assistance, and symptom guidance. No indication of alternative medicine.""
+}
+```"
+105,Airofit,Health & Fitness,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While in the Health & Fitness category and mentioning respiratory training, the app focuses on athletic performance and respiratory muscle training, not specifically asthma/rhinitis/hay fever symptom tracking or management.""
+}
+```"
+106,Air Quality & Pollen - AirCare,Weather,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Weather, but the app explicitly tracks pollen, AQI, and provides forecasts relevant to asthma/rhinitis/hay fever. Mentions NASA and EPA, suggesting active development.""
+}
+```"
+107,Carby Health,Medical,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While the app is medical and offers chronic condition programs, it doesn't specifically focus on asthma tracking, monitoring, or forecasting. It mentions diabetes, hypertension, and asthma programs but lacks detail.""
+}
+```"
+108,Asthma & Medication Tracker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description clearly indicates asthma tracking with features like peak flow monitoring, inhaler usage tracking, and medication reminders. No alternative medicine mentioned.""
+}
+```"
+109,Our Journey with Asthma,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the app is specifically designed to help families manage asthma, facilitating conversations and ensuring understanding of care instructions.""
+}
+```"
+110,PeakFlow Diary (Asthma),Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the description explicitly states it's for tracking peak flow values and managing breathing, indicating relevance for asthma symptom monitoring.""
+}
+```"
+111,IQAir AirVisual | Air Quality,Weather,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Weather, but the description explicitly mentions support for sensitive people (allergies, asthma), health recommendations, pollen counts, and educational resources related to respiratory illnesses. App appears active.""
+}
+```"
+112,ASTHMAXcel,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness, and the description clearly states it's for asthma patients, teaching them about asthma management and improving control. App appears active.""
+}
+```"
+113,My Pollen Forecast - Allergies,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness, explicitly mentions pollen tracking, symptom diary, and forecasts. Supports iPhone/iPad, suggesting active development despite missing update date. Relevant for asthma/rhinitis/hay fever.""
+}
+```"
+114,My Pollen Forecast Pro,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness, explicitly mentions pollen tracking, symptom diary, and forecasts. Supports modern iPhone features, suggesting it's actively maintained. Relevant for asthma/rhinitis/hay fever support.""
+}
+```"
+115,Allergy Plus by Pollen.com,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness. Description clearly states it provides real-time allergy forecasts and notifications, relevant for managing allergy symptoms (rhinitis/hay fever).""
+}
+```"
+116,Pollen Wise,Weather,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Weather, but the description clearly focuses on pollen tracking, allergen forecasting, and symptom logging, making it relevant for rhinitis/hay fever support.""
+}
+```"
+117,ZYRTEC® ALLERGYCAST®,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness. Description explicitly mentions allergy tracking, pollen forecasts, symptom severity predictions, and personalized insights - all relevant for asthma/rhinitis/hay fever support.""
+}
+```"
+118,Spokin - Manage Food Allergies,Health & Fitness,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While Health & Fitness category is acceptable, the app focuses solely on food allergies and does not address asthma, rhinitis, or hay fever symptoms, tracking, or forecasting.""
+}
+```"
+119,IQAir AirVisual | Air Quality,Weather,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Weather, but the description explicitly mentions support for sensitive people (allergies, asthma), health recommendations, pollen counts, and educational resources related to respiratory illnesses. App appears active.""
+}
+```"
+120,Asthma Tracker゜,Lifestyle,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Lifestyle, but the title and description clearly indicate asthma symptom tracking (inhaler usage, symptoms, measurements, reports). Mentions modern iPhone features (Face ID/Touch ID) suggesting it's active.""
+}
+```"
+121,Allergy Pollen Count,Weather,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Genre is Weather, but description mentions pollen/mold counts from certified counters and allergy-related educational videos by a Board Certified Allergist, indicating relevance for rhinitis/hay fever support.""
+}
+```"
+122,Airofit,Health & Fitness,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While in the Health & Fitness category and mentioning respiratory training, the app focuses on athletic performance and muscle strengthening, not asthma/rhinitis/hay fever symptom tracking or management.""
+}
+```"
+123,Daily Breathe: Asthma Tracker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description clearly indicates asthma tracking with features like peak flow monitoring, zone assessment, and health integration. No alternative medicine mentioned.""
+}
+```"
+124,MyWay – Patient Support,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Genre is Medical and the app provides symptom tracking, medication reminders, and personalized reports for Dupixent patients, aligning with asthma/rhinitis/hay fever support.""
+}
+```"
+125,"klarify: Pollen app, Hay fever",Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description explicitly focuses on pollen/hay fever tracking, forecasting, and management. Mentions allergy calendar, alerts, and data-driven insights, indicating active development.""
+}
+```"
+126,Air Quality & Pollen - AirCare,Weather,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Weather, but the app explicitly tracks pollen, AQI, and provides forecasts relevant to asthma/rhinitis/hay fever. Mentions NASA and EPA, suggesting active development.""
+}
+```"
+127,Allergy Tracker°,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness, and the description explicitly mentions tracking allergy symptoms, triggers, and treatments, making it relevant for asthma/rhinitis/hay fever support.""
+}
+```"
+128,ASTHMA,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Relevant Health & Fitness app specifically designed for asthma management, including reminders, emergency assistance, and symptom guidance. No indication of alternative medicine.""
+}
+```"
+129,Totaal - Asthma and Allergies,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description clearly states it provides pollen and fungal spore counts to help individuals with allergies and asthma, aligning with symptom tracking.""
+}
+```"
+130,My Pollen Forecast Pro,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness, explicitly mentions pollen tracking, symptom diary, and forecasts. Supports modern iPhone features, suggesting it's actively maintained. Relevant for asthma/rhinitis/hay fever support.""
+}
+```"
+131,My Pollen Forecast - Allergies,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness, explicitly mentions pollen tracking, symptom diary, and forecasts. Supports iPhone/iPad, suggesting active development despite missing update date. Relevant for asthma/rhinitis/hay fever.""
+}
+```"
+132,Ada – check your health,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Genre is Medical and the description explicitly mentions allergy and rhinitis as common symptoms. It also offers symptom tracking and personalized health information, aligning with relevance criteria.""
+}
+```"
+133,Airofit,Health & Fitness,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While in the Health & Fitness category and mentioning respiratory training, the app focuses on athletic performance and muscle strengthening, not asthma/rhinitis/hay fever symptom tracking or management.""
+}
+```"
+134,Asthma Tracker゜,Lifestyle,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Lifestyle, but the title and description clearly indicate asthma symptom tracking (inhaler usage, symptoms, measurements, reports). App appears active due to feature mentions.""
+}
+```"
+135,Daily Breathe: Asthma Tracker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description clearly indicates asthma tracking with features like peak flow monitoring, zone assessment, and health integration. No alternative medicine mentioned.""
+}
+```"
+136,WebMD: Symptom Checker,Medical,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While a medical app, it's a general symptom checker and health information resource, not specifically designed for asthma/rhinitis/hay fever tracking or management.""
+}
+```"
+137,Air Quality & Pollen - AirCare,Weather,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Weather, but the app explicitly tracks pollen, AQI, and provides forecasts relevant to asthma/rhinitis/hay fever. Mentions NASA and EPA, suggesting active development.""
+}
+```"
+138,Allergy Plus by Pollen.com,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness. Description clearly states it provides real-time allergy forecasts and notifications, relevant for managing allergy symptoms (rhinitis/hay fever).""
+}
+```"
+139,ZYRTEC® ALLERGYCAST®,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness. Description explicitly mentions allergy tracking, pollen forecasts, symptom severity predictions, and personalized insights - all relevant for asthma/rhinitis/hay fever support.""
+}
+```"
+140,Asthma Manager,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description explicitly mentions asthma symptom tracking, medication management, and connecting with care providers. App mentions integration with Health app, suggesting it's active.""
+}
+```"
+141,ASTHMA,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Relevant Health & Fitness app specifically designed for asthma management, including reminders, emergency assistance, and symptom guidance. No indication of alternative medicine.""
+}
+```"
+142,Primary Care On Demand,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Genre is Medical and the description mentions 'allergies and asthma' as a condition treated, indicating relevance for asthma/rhinitis/hay fever support.""
+}
+```"
+143,Pollen Wise,Weather,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Weather, but the description clearly focuses on pollen tracking, allergen forecasting, and symptom logging, making it relevant for rhinitis/hay fever support.""
+}
+```"
+144,PeakFlow Diary (Asthma),Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description explicitly states it's for tracking peak flow values and managing breathing, indicating relevance for asthma symptom monitoring.""
+}
+```"
+145,Breathe for Asthma and COPD,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description explicitly mentions asthma/COPD action plans, symptom tracking (ChatBot), and medication management - all relevant for asthma support.""
+}
+```"
+146,MyWay – Patient Support,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Genre is Medical and the app provides symptom tracking, medication reminders, and personalized reports for Dupixent patients, aligning with asthma/rhinitis/hay fever support.""
+}
+```"
+147,Airthings,Utilities,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Utilities, but description highlights air quality monitoring, pollen forecasts, and notifications for poor air quality - all relevant for asthma/rhinitis/hay fever management.""
+}
+```"
+148,Eko: Digital Stethoscope + ECG,Medical,,"```json
+{
+  ""include"": false,
+  ""reason"": ""The app focuses on heart and lung disease detection using a digital stethoscope and ECG. It is not relevant for asthma/rhinitis/hay fever symptom tracking or management.""
+}
+```"
+149,Meds & Pill Reminder MyTherapy,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""The app explicitly mentions support for asthma and provides features like symptom tracking and medication reminders, making it relevant for asthma management.""
+}
+```"
+150,My Pollen Forecast - Allergies,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness, explicitly mentions pollen tracking, symptom diary, and forecasts. Supports iPhone/iPad, suggesting active development despite missing update date. Relevant for asthma/rhinitis/hay fever.""
+}
+```"
+151,FollowMyHealth®,Medical,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While a medical app, it's a general health record and doesn't specifically focus on asthma/rhinitis/hay fever tracking, monitoring, or forecasting.""
+}
+```"
+152,My Pollen Forecast Pro,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness, and the description explicitly mentions pollen tracking, symptom diaries, and forecasts for hayfever/allergies. App appears active due to mention of modern iPhone features.""
+}
+```"
+153,AprilAire Healthy Air,Lifestyle,,"```json
+{
+  ""include"": true,
+  ""reason"": ""While categorized as Lifestyle, the app directly controls humidity and air quality, offering features like pollen alerts and control over air cleaning - relevant for managing asthma/rhinitis triggers.""
+}
+```"
+154,Plume Labs: Air Quality App,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Relevant Health & Fitness app providing real-time air quality data (NO2, PM2.5, PM10, O3) and forecasts, which can be helpful for managing asthma/rhinitis/hay fever triggers. App appears active based on description.""
+}
+```"
+155,Airofit,Health & Fitness,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While in the Health & Fitness category and mentioning respiratory training, the app focuses on athletic performance and respiratory muscle training, not specifically asthma/rhinitis/hay fever symptom tracking or management.""
+}
+```"
+156,Health - Heart Rate Monitor,Health & Fitness,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While a health & fitness app, it primarily focuses on general heart health monitoring (heart rate, HRV, blood oxygen) and does not specifically address asthma, rhinitis, or hay fever symptoms.""
+}
+```"
+157,ASTHMAXcel,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness, and the description clearly states it's for asthma patients, teaching them about management and improving control. App appears active.""
+}
+```"
+158,Airthings,Utilities,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Utilities, but description highlights air quality monitoring, pollen forecasts, and notifications for poor air quality - relevant for asthma/rhinitis/hay fever sufferers.""
+}
+```"
+159,AYRA,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Clearly focused on asthma management with action plan generation, peak flow tracking, medication reminders, and inhaler technique videos. Targets both healthcare providers and patients, indicating relevance.""
+}
+```"
+160,Allergy Plus by Pollen.com,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness. Description clearly states it provides real-time allergy forecasts and notifications, relevant for managing allergy symptoms (rhinitis/hay fever).""
+}
+```"
+161,Asthma Tracker゜,Lifestyle,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Lifestyle, but the description clearly indicates asthma symptom tracking (inhaler usage, symptoms, measurements, reports). Mentions modern iPhone features (Face ID/Touch ID), suggesting it's active.""
+}
+```"
+162,Smart Asthma: Forecast Asthma,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical. App focuses on asthma symptom tracking, forecasting, and data sharing with healthcare providers. Mentions HealthKit integration, suggesting active development.""
+}
+```"
+163,Air Quality & Pollen - AirCare,Weather,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Weather, but the app explicitly tracks pollen, AQI, and provides forecasts relevant to asthma/rhinitis/hay fever. Mentions NASA and EPA, suggesting active development.""
+}
+```"
+164,Complete - Medication Tracker,Medical,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While medical, this app specifically supports HUMIRA, RINVOQ, and SKYRIZI for autoimmune conditions, not asthma/rhinitis/hay fever. It doesn't track those specific symptoms.""
+}
+```"
+165,ASTHMAXcel Perception,Games,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Games, but description clearly indicates asthma education, symptom tracking (peak flow), medication reminders, and asthma control management - highly relevant for asthma support.""
+}
+```"
+166,Track My Asthma,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the app explicitly focuses on tracking asthma symptoms (medication, peak flow, reminders, charts) and exporting data. No alternative medicine mentioned. App appears active.""
+}
+```"
+167,MyEEHealth,Medical,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While in the Medical category, the app focuses on general patient care, appointment scheduling, and medical record access. It lacks specific features for asthma/rhinitis/hay fever symptom tracking, monitoring, or forecasting.""
+}
+```"
+168,AsthmaTime,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness and the description explicitly states it's for asthma self-management. No update date, but the description suggests active use.""
+}
+```"
+169,Asthma Manager,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description explicitly mentions asthma symptom tracking, medication management, and connecting with care providers. App mentions integration with Health app, suggesting it's active.""
+}
+```"
+170,AYRA,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Clearly focused on asthma management with action plan generation, peak flow tracking, medication reminders, and inhaler technique videos. Targets both healthcare providers and patients, indicating relevance.""
+}
+```"
+171,Asthma Tracker゜,Lifestyle,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Lifestyle, but the title and description clearly indicate asthma symptom tracking (inhaler usage, symptoms, measurements, reports). App appears active due to feature mentions.""
+}
+```"
+172,AsthmaMD,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description clearly indicates asthma symptom tracking, journaling, medication management, and data sharing with physicians. App appears active due to mentions of iPhone features.""
+}
+```"
+173,ASTHMAXcel,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness, and the description clearly states it's for asthma patients, teaching them about asthma management and improving control. No alternative medicine mentioned.""
+}
+```"
+174,Daily Breathe: Asthma Tracker,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description clearly indicates asthma tracking with features like peak flow monitoring, zone assessment, and health integration. No alternative medicine mentioned.""
+}
+```"
+175,CHF Family Asthma App,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description clearly outlines asthma education, trigger avoidance, medication guidance, and action plan documentation - all relevant for asthma support. No data collection is a plus.""
+}
+```"
+176,Airofit,Health & Fitness,,"```json
+{
+  ""include"": false,
+  ""reason"": ""While in the Health & Fitness category and mentioning respiratory training, the app focuses on athletic performance and muscle strengthening, not asthma/rhinitis/hay fever symptom tracking or management.""
+}
+```"
+177,Our Journey with Asthma,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical and the app is specifically designed to help families manage asthma, facilitating conversations and ensuring understanding of care instructions.""
+}
+```"
+178,Moderate to Severe Asthma AR,Education,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Relevant education app focusing on asthma pathophysiology and treatment options. Description indicates active development and aligns with asthma support.""
+}
+```"
+179,My Pollen Forecast Pro,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Health & Fitness, explicitly mentions pollen tracking, symptom diary, and forecasts. Supports modern iPhone features, suggesting it's actively maintained. Relevant for asthma/rhinitis/hay fever support.""
+}
+```"
+180,Asthma: Tracker & Reminders,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description clearly outlines symptom tracking, medication reminders, and health reports specifically for asthma management. App appears active due to detailed feature descriptions.""
+}
+```"
+181,ASTHMAXcel Adventures,Games,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Genre is Games, but description clearly states it's designed to increase asthma knowledge and improve asthma control, providing education and information. App appears active.""
+}
+```"
+182,ASTHMA,Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Relevant Health & Fitness app specifically designed for asthma management, including reminders, emergency assistance, and symptom guidance. No indication of alternative medicine.""
+}
+```"
+183,Breathe for Asthma and COPD,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical, and the description explicitly mentions asthma/COPD action plans, symptom tracking (ChatBot), and medication management - all relevant for asthma support.""
+}
+```"
+184,ASTHMAXcel Perception,Games,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Games, but description clearly indicates asthma education, symptom tracking (peak flow), medication reminders, and asthma control management - highly relevant for asthma support.""
+}
+```"
+185,"Ask Me, AsthMe!",Health & Fitness,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Health & Fitness category and description explicitly mentions pediatric asthma management, indicating relevance for asthma support.""
+}
+```"
+186,Smart Asthma: Forecast Asthma,Medical,,"```json
+{
+  ""include"": true,
+  ""reason"": ""Category is Medical. App focuses on asthma symptom tracking, forecasting, and data sharing with healthcare providers. Mentions HealthKit integration, suggesting active development.""
+}
+```"
