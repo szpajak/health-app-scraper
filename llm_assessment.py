@@ -37,12 +37,10 @@ import pandas as pd
 CRITERIA_SUMMARY = """
 Decide if an app is RELEVANT (include) or NOT RELEVANT (exclude) for asthma/rhinitis/hay fever support.
 Follow these rules:
-1) Category must be Medical, Health & Fitness, or Weather. If different, exclude.
-2) Must be updated within last 3 years. If unknown date, be conservative and exclude unless description clearly shows active maintenance.
-3) Must mention symptoms or tracking/monitoring in description. If no symptom-related wording, exclude.
-4) Exclude alternative medicine or non-evidence-based focus (home remedy, natural remedy, homeopathy, alternative medicine, acupressure).
-5) Relevance: include if about asthma, rhinitis, hay fever, respiratory allergy, pollen with symptom tracking/alerts, or weather pollen forecasts tied to allergies. Weather-only without allergy linkage is NOT relevant.
-6) Exclude food/recipe/diet apps unless clearly about respiratory allergies.
+1) Category: Prefer Medical, Health & Fitness, or Weather. However, if Category is Lifestyle or Productivity but the Title/Description clearly indicates asthma symptom tracking, INCLUDE.
+2) Updates: If the update date is missing, look for clues in the description. If the app mentions modern iPhone features, assume it is active.
+3) Evidence-based: Strictly EXCLUDE homeopathy/alternative medicine.
+4) Relevance: The app must be for tracking, monitoring, or forecasting asthma/hay fever/rhinitis symptoms.
 Return a JSON object with fields: include (true/false) and reason (short, under 200 chars).
 """
 
